@@ -1,24 +1,23 @@
-Requirements Document 
-1 Introduction
+1 Introduction       
 Manga Reader - Read Manga Free is an application read manga online & offline. Update new chapter manga every day and easy to use.
-Features:
-- 4 reading direction: Left to right, scroll vertical, right to left, Vertical.  
-- Search with author, key word, type, genres.  
-- Unlimited download to read offline.  
-- Backup & restore all your manga for multi-device usage.  
-2 User Requirements  
-2.1 Software Interfaces  
-Java Fx will be used to create projects GUI.  
-MySql will be used to save downloaded manga chapters.    
-2.2 User Interfaces    
-At the initial stage, the GUI will consist of 6 stages.  
-2.2.1 Main stage. On this stage the user can open manga, he wants to start reading or add selected manga to his list of preferences.   Check the preview image. Also the user can go to the list of preferences, and other stages.  
-![](MockUps/images/main%20stage.png)  
-2.2.2 Reading stage. There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.  
- ![](MockUps/images/manga%20preview.png)  
- 
-2.2.3Menu stage.  
-
+Features:    
+- 4 reading direction: Left to right, scroll vertical, right to left, Vertical.   
+- Search with author, key word, type, genres.    
+- Unlimited download to read offline.    
+- Backup & restore all your manga for multi-device usage.      
+2 User Requirements    
+2.1 Software Interfaces    
+Java Fx will be used to create projects GUI.    
+MySql will be used to save downloaded manga chapters.      
+2.2 User Interfaces      
+At the initial stage, the GUI will consist of 6 stages.   
+2.2.1 Main stage. On this stage the user can open manga, he wants to start reading or add selected manga to his list of preferences.   Check the preview image. Also the user can go to the list of preferences, and other stages.   
+![](MockUps/images/main%20stage.png)    
+2.2.2 Reading stage. There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.   
+ ![](MockUps/images/manga%20preview.png)   
+  
+2.2.3Menu stage.   
+ 
  
  ![](MockUps/images/menu.png)      
  
