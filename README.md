@@ -17,32 +17,32 @@ At the initial stage, the GUI will consist of 6 stages.
 2.2.2 Reading stage. There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.
  ![](MockUps/images/manga%20preview.png)
  
-2.2.3Menu stage.
+###2.2.3Menu stage.
 
 
  ![](MockUps/images/menu.png)
  
  
-2.2.4 Searching stage. Search with author, key word, type, genres.
+###2.2.4 Searching stage. Search with author, key word, type, genres.
 
 
 ![](MockUps/images/readig.png)
  
  
  
-2.2.5 Settings stage.
+###2.2.5 Settings stage.
  
  
  ![](MockUps/images/search.png)
  
  
-2.2.6 Manga preview. The user can chose the manga chapter he wants to read continue reading from the last read chapter. Also he can rate selected manga series and open the text of manga description. 
+###2.2.6 Manga preview. The user can chose the manga chapter he wants to read continue reading from the last read chapter. Also he can rate selected manga series and open the text of manga description. 
 
 
 ![](MockUps/images/settings.png)
 
 
-2.3 User Characteristics
+###2.3 User Characteristics
 This application is designed for a wide range of users and has no age limit. It is assumed that this product will be used by people who are interested in reading manga, manhwa, manhua.
 Minimum necessary skills - the ability to use a mobile phone at a basic level and experience with software products.
 2.4 Assumptions and Dependencies
