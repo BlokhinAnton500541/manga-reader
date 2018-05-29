@@ -13,7 +13,7 @@ MySql will be used to save downloaded manga chapters.
 2.2 User Interfaces
 At the initial stage, the GUI will consist of 6 stages.
 2.2.1 Main stage. On this stage the user can open manga, he wants to start reading or add selected manga to his list of preferences. Check the preview image. Also the user can go to the list of preferences, and other stages.
-https://github.com/BlokhinAnton500541/manga-reader/blob/master/MockUps/images/main%20stage.png
+![](MockUps/images/main%20stage.png)
 2.2.2 Reading stage. There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.
  https://github.com/BlokhinAnton500541/manga-reader/blob/master/MockUps/images/manga%20preview.png
  
