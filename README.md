@@ -1,22 +1,22 @@
 # **Requirements**
 
 ## Content
- 1 [Introduction] (# 1)     
- 2 [User Requirements ](# 2)     
- 2.[1 Software Interfaces](# 3)        
- 2.2 [User Interfaces](# 4)   
- 2.2.1 [Main stage.](# 5)   
- 2.2.2 [Reading stage.](# 6)   
- 2.2.3 [Menu stage.](# 7)   
- 2.2.4 [Searching stage.] (# 8)     
- 2.2.5 [Settings stage. ](# 9)   
- 2.2.6 [Manga preview.](# 10)                  
- 2.3 [User Characteristics ](# 11)    
- 2.4 [Assumptions and Dependencies](# 12)   
- 3 [System Requirements ](# 13)   
- 3.1 [Functional Requirements](# 14)   
- 3.2 [Non-Functional Requirements](# 15)   
- 3.2 [Non-Functional Requirements](# 16)   
+ 1 [Introduction](#1)     
+ 2 [User Requirements ](#2)     
+ 2.[1 Software Interfaces](#3)        
+ 2.2 [User Interfaces](#4)   
+ 2.2.1 [Main stage.](#5)   
+ 2.2.2 [Reading stage.](#6)   
+ 2.2.3 [Menu stage.](#7)   
+ 2.2.4 [Searching stage.] (#8)     
+ 2.2.5 [Settings stage. ](#9)   
+ 2.2.6 [Manga preview.](#10)                  
+ 2.3 [User Characteristics ](#11)    
+ 2.4 [Assumptions and Dependencies](#12)   
+ 3 [System Requirements ](#13)   
+ 3.1 [Functional Requirements](#14)   
+ 3.2 [Non-Functional Requirements](#15)   
+ 3.2 [Non-Functional Requirements](#16)   
  
 <a name="1"/>
  
