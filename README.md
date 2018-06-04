@@ -1,4 +1,24 @@
 # **Requirements**
+
+## Content
+ 1 [Introduction] )(# 1)
+ 2 [User Requirements ](# 1)
+ 2.[1 Software Interfaces](# 1)   
+ 2.2 [User Interfaces](# 1)
+ 2.2.1 [Main stage.](# 1)
+ 2.2.2 [Reading stage.](# 1)
+ 2.2.3 [Menu stage.](# 1)
+ 2.2.4 [Searching stage.] (# 1) 
+ 2.2.5 [Settings stage. ](# 1)
+ 2.2.6 [Manga preview.](# 1)               
+ 2.3 [User Characteristics ](# 1) 
+ 2.4 [Assumptions and Dependencies](# 1)
+ 3 [System Requirements ](# 1) 
+ 3.1 [Functional Requirements](# 1)
+ 3.2 [Non-Functional Requirements](# 1)
+ 3.2 [Non-Functional Requirements](# 1)
+ <a name="1"/>
+ 
 ## 1 Introduction  
 
 Manga Reader - Read Manga Free is an application read manga online & offline. Update new chapter manga every day and easy to use.
@@ -21,13 +41,15 @@ At the initial stage, the GUI will consist of 6 stages.
 On this stage the user can open manga, he wants to start reading or add selected manga to his list of preferences.   Check the preview image. Also the user can go to the list of preferences, and other stages.   
 ![](MockUps/images/main%20stage.png)  
 
-## 2.2.2 Reading stage. There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.   
+## 2.2.2 Reading stage.                         
+There is 4 reading direction: Left to right, scroll vertical, right to left, Vertical.   
 ![](MockUps/images/manga%20preview.png)             
 
 ## 2.2.3Menu stage.   
 ![](MockUps/images/menu.png)     
 
-## 2.2.4 Searching stage. Search with author, key word, type, genres.    
+## 2.2.4 Searching stage.                       
+Search with author, key word, type, genres.    
 ![](MockUps/images/readig.png)   
 
 ## 2.2.5 Settings stage.          
@@ -58,6 +80,6 @@ In manga reader the following possibilities should be realized:
 
 ## 3.2 Non-Functional Requirements  
     
-## 3.2.1 SOFTWARE QUALITY ATTRIBUTES     
+## 3.2 Non-Functional Requirements    
 It is expected that the product will be compatible with any mobile device based on Android 4.5 or later. Taking into account that the product is a manga reading application and the human lives and health of people do not depend on the correctness of its work, there are no requirements for its reliability. However, for successful monetization in the future (after the formation of demand) there is a need for trouble-free operation
 
