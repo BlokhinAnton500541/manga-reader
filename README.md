@@ -1,13 +1,13 @@
 1 Introduction       
 Manga Reader - Read Manga Free is an application read manga online & offline. Update new chapter manga every day and easy to use.
-Features:    
-- 4 reading direction: Left to right, scroll vertical, right to left, Vertical.   
-- Search with author, key word, type, genres.    
+Features:     
+- 4 reading direction: Left to right, scroll vertical, right to left, Vertical.    
+- Search with author, key word, type, genres.       
 - Unlimited download to read offline.    
-- Backup & restore all your manga for multi-device usage.      
-2 User Requirements    
-2.1 Software Interfaces    
-Java Fx will be used to create projects GUI.    
+- Backup & restore all your manga for multi-device usage.       
+2 User Requirements     
+2.1 Software Interfaces     
+Java Fx will be used to create projects GUI.      
 MySql will be used to save downloaded manga chapters.      
 2.2 User Interfaces      
 At the initial stage, the GUI will consist of 6 stages.   
@@ -40,7 +40,8 @@ In manga reader the following possibilities should be realized:
 6. To read manga
 7. To create accoutnt and log on/out
 
-3.2 Non-Functional Requirements
-3.2.1 SOFTWARE QUALITY ATTRIBUTES
+3.2 Non-Functional Requirements  
+    
+3.2.1 SOFTWARE QUALITY ATTRIBUTES     
 It is expected that the product will be compatible with any mobile device based on Android 4.5 or later. Taking into account that the product is a manga reading application and the human lives and health of people do not depend on the correctness of its work, there are no requirements for its reliability. However, for successful monetization in the future (after the formation of demand) there is a need for trouble-free operation
 
