@@ -16,7 +16,7 @@
  3 [System Requirements ](#13)   
  3.1 [Functional Requirements](#14)   
  3.2 [Non-Functional Requirements](#15)   
- 3.2 [Non-Functional Requirements](#16)   
+ 
  
 <a name="1"/>
  
@@ -107,10 +107,6 @@ In manga reader the following possibilities should be realized:
 7. To create accoutnt and log on/out
 
 <a name="15"/>
-
-## 3.2 Non-Functional Requirements  
-
-<a name="16"/>
 
 ## 3.2 Non-Functional Requirements    
 It is expected that the product will be compatible with any mobile device based on Android 4.5 or later. Taking into account that the product is a manga reading application and the human lives and health of people do not depend on the correctness of its work, there are no requirements for its reliability. However, for successful monetization in the future (after the formation of demand) there is a need for trouble-free operation
