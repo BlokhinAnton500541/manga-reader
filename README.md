@@ -8,7 +8,7 @@
  2.2.1 [Main stage.](#5)   
  2.2.2 [Reading stage.](#6)   
  2.2.3 [Menu stage.](#7)   
- 2.2.4 [Searching stage.] (#8)     
+ 2.2.4 [Searching stage.](#8)     
  2.2.5 [Settings stage. ](#9)   
  2.2.6 [Manga preview.](#10)                  
  2.3 [User Characteristics ](#11)    
