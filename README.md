@@ -1,4 +1,4 @@
-## **Requirements**
+# **Requirements**
 ## 1 Introduction  
 
 Manga Reader - Read Manga Free is an application read manga online & offline. Update new chapter manga every day and easy to use.
